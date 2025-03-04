@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://fastly.picsum.photos/id/466/1920/1089.jpg?hmac=2T2WQHujkaJ2ZgWRvK-6pyKseBYp_HO5fgu83lQS_6c");
+}
