@@ -13,3 +13,69 @@ body{
     align-items: center;
     background-image: url("https://fastly.picsum.photos/id/466/1920/1089.jpg?hmac=2T2WQHujkaJ2ZgWRvK-6pyKseBYp_HO5fgu83lQS_6c");
 }
+
+.caixa-maior{
+    background: #000;
+    opacity: 0.8;
+    border-radius: 25px;
+    padding: 20px;
+    width: 20%;
+}
+
+.input-cidade{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #7c7c7c2b;
+    color: #fff;
+    width: calc(100% - 100px);
+}
+
+.botao-busca{
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #7c7c7c2b;
+    cursor: pointer;
+    float: right;
+}
+
+.img-busca{
+    width: 20px;
+}
+
+.caixa-media{
+    margin-top: 30px;
+}
+
+.cidade{
+    color: #fff;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.tempo{
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.caixa-menor{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.texto-previsao{
+    color: #fff;
+    margin-left: 20px;
+}
+
+.umidade{
+    color: #fff;
+    margin-top: 20px;
+    
+}
